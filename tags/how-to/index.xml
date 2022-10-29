@@ -1,18 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>how to on NewsStreet | News from several media houses</title>
-    <link>https://newsstreet.github.io/tags/how-to/</link>
-    <description>Recent content in how to on NewsStreet | News from several media houses</description>
+    <title>how to on DivaNews | News portal</title>
+    <link>https://divanews.github.io/tags/how-to/</link>
+    <description>Recent content in how to on DivaNews | News portal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Oct 2022 17:10:16 +0000</lastBuildDate><atom:link href="https://newsstreet.github.io/tags/how-to/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Oct 2022 15:12:54 +0000</lastBuildDate><atom:link href="https://divanews.github.io/tags/how-to/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WhatsApp: How to use the image blurring tool on desktop</title>
+      <link>https://divanews.github.io/news/whatsapp-how-to-use-the-image-blurring-tool-on-desktop/</link>
+      <pubDate>Thu, 27 Oct 2022 15:12:54 +0000</pubDate>
+      
+      <guid>https://divanews.github.io/news/whatsapp-how-to-use-the-image-blurring-tool-on-desktop/</guid>
+      <description>WhatsApp: How to use the image blurring tool on desktop WhatsApp recently rolled out the blur tool for some of its users.</description>
+    </item>
+    
+    <item>
+      <title>LinkedIn: How to spot fake profiles on the platform</title>
+      <link>https://divanews.github.io/news/linkedin-how-to-spot-fake-profiles-on-the-platform/</link>
+      <pubDate>Wed, 26 Oct 2022 08:50:13 +0000</pubDate>
+      
+      <guid>https://divanews.github.io/news/linkedin-how-to-spot-fake-profiles-on-the-platform/</guid>
+      <description>LinkedIn: How to spot fake profiles on the platform LinkedIn has introduced new features to allow users to spot fake profiles and remove them from the platform.</description>
+    </item>
+    
+    <item>
+      <title>How to Make a Sign in Minecraft</title>
+      <link>https://divanews.github.io/news/how-to-make-a-sign-in-minecraft/</link>
+      <pubDate>Wed, 26 Oct 2022 00:45:08 +0000</pubDate>
+      
+      <guid>https://divanews.github.io/news/how-to-make-a-sign-in-minecraft/</guid>
+      <description>How to Make a Sign in Minecraft How to Make a Sign in Minecraft?</description>
+    </item>
+    
     <item>
       <title>How to Make a Wooden Pickaxe in Minecraft</title>
-      <link>https://newsstreet.github.io/blog/how-to-make-a-wooden-pickaxe-in-minecraft/</link>
+      <link>https://divanews.github.io/news/how-to-make-a-wooden-pickaxe-in-minecraft/</link>
       <pubDate>Sun, 23 Oct 2022 17:10:16 +0000</pubDate>
       
-      <guid>https://newsstreet.github.io/blog/how-to-make-a-wooden-pickaxe-in-minecraft/</guid>
+      <guid>https://divanews.github.io/news/how-to-make-a-wooden-pickaxe-in-minecraft/</guid>
       <description>How to Make a Wooden Pickaxe in Minecraft How to Make a Wooden Pickaxe in Minecraft?</description>
     </item>
     

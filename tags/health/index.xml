@@ -1,18 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Health on NewsStreet | News from several media houses</title>
-    <link>https://newsstreet.github.io/tags/health/</link>
-    <description>Recent content in Health on NewsStreet | News from several media houses</description>
+    <title>Health on DivaNews | News portal</title>
+    <link>https://divanews.github.io/tags/health/</link>
+    <description>Recent content in Health on DivaNews | News portal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Oct 2022 05:46:25 +0000</lastBuildDate><atom:link href="https://newsstreet.github.io/tags/health/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Oct 2022 04:30:58 +0000</lastBuildDate><atom:link href="https://divanews.github.io/tags/health/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stuck in a ‘trigger-stress-eating-temporary-relief’ cycle? Here’s how you can break the chain</title>
+      <link>https://divanews.github.io/news/stuck-in-a-trigger-stress-eating-temporary-relief-cycle-heres-how/</link>
+      <pubDate>Fri, 28 Oct 2022 04:30:58 +0000</pubDate>
+      
+      <guid>https://divanews.github.io/news/stuck-in-a-trigger-stress-eating-temporary-relief-cycle-heres-how/</guid>
+      <description>Stuck in a ‘trigger-stress-eating-temporary-relief’ cycle? Here’s how you can break the chain indianexpress</description>
+    </item>
+    
+    <item>
+      <title>As Mohanlal enjoys red meat for lunch, his nutritionist shares a trick to make it ‘gut-friendly’</title>
+      <link>https://divanews.github.io/news/as-mohanlal-enjoys-red-meat-for-lunch-his-nutritionist-shares-a-trick-to-m/</link>
+      <pubDate>Thu, 27 Oct 2022 09:30:59 +0000</pubDate>
+      
+      <guid>https://divanews.github.io/news/as-mohanlal-enjoys-red-meat-for-lunch-his-nutritionist-shares-a-trick-to-m/</guid>
+      <description>As Mohanlal enjoys red meat for lunch, his nutritionist shares a trick to make it ‘gut-friendly’ indianexpress</description>
+    </item>
+    
+    <item>
+      <title>Unilever recalls select dry shampoo products with high benzene levels; find out how it harms your health</title>
+      <link>https://divanews.github.io/news/unilever-recalls-select-dry-shampoo-products-with-high-benzene-levels-find/</link>
+      <pubDate>Wed, 26 Oct 2022 16:10:24 +0000</pubDate>
+      
+      <guid>https://divanews.github.io/news/unilever-recalls-select-dry-shampoo-products-with-high-benzene-levels-find/</guid>
+      <description>Unilever recalls select dry shampoo products with high benzene levels; find out how it harms your health Just how harmful is benzene?</description>
+    </item>
+    
     <item>
       <title>Anxiety disorders had no effect on vaccine hesitancy</title>
-      <link>https://newsstreet.github.io/blog/anxiety-disorders-had-no-effect-on-vaccine-hesitancy/</link>
+      <link>https://divanews.github.io/news/anxiety-disorders-had-no-effect-on-vaccine-hesitancy/</link>
       <pubDate>Mon, 24 Oct 2022 05:46:25 +0000</pubDate>
       
-      <guid>https://newsstreet.github.io/blog/anxiety-disorders-had-no-effect-on-vaccine-hesitancy/</guid>
+      <guid>https://divanews.github.io/news/anxiety-disorders-had-no-effect-on-vaccine-hesitancy/</guid>
       <description>Anxiety disorders had no effect on vaccine hesitancy These findings help shed light on the best way for the government to promote vaccination.</description>
     </item>
     
