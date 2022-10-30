@@ -6,22 +6,58 @@
     <description>Recent content in Tags on DivaNews | Hindi News portal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Oct 2022 17:11:00 +0530</lastBuildDate><atom:link href="https://divanews.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Oct 2022 18:19:00 +0530</lastBuildDate><atom:link href="https://divanews.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Gujarat</title>
-      <link>https://divanews.github.io/tags/gujarat/</link>
-      <pubDate>Sun, 30 Oct 2022 17:11:00 +0530</pubDate>
+      <title>India</title>
+      <link>https://divanews.github.io/tags/india/</link>
+      <pubDate>Sun, 30 Oct 2022 18:19:00 +0530</pubDate>
       
-      <guid>https://divanews.github.io/tags/gujarat/</guid>
+      <guid>https://divanews.github.io/tags/india/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>South africa</title>
+      <link>https://divanews.github.io/tags/south-africa/</link>
+      <pubDate>Sun, 30 Oct 2022 18:19:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/south-africa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sport</title>
       <link>https://divanews.github.io/tags/sport/</link>
-      <pubDate>Sun, 30 Oct 2022 17:11:00 +0530</pubDate>
+      <pubDate>Sun, 30 Oct 2022 18:07:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/tags/sport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Delhi</title>
+      <link>https://divanews.github.io/tags/delhi/</link>
+      <pubDate>Sun, 30 Oct 2022 17:43:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/delhi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kejriwal</title>
+      <link>https://divanews.github.io/tags/kejriwal/</link>
+      <pubDate>Sun, 30 Oct 2022 17:43:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/kejriwal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gujarat</title>
+      <link>https://divanews.github.io/tags/gujarat/</link>
+      <pubDate>Sun, 30 Oct 2022 17:11:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/gujarat/</guid>
       <description></description>
     </item>
     
@@ -35,24 +71,6 @@
     </item>
     
     <item>
-      <title>India</title>
-      <link>https://divanews.github.io/tags/india/</link>
-      <pubDate>Sun, 30 Oct 2022 16:14:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/india/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>South africa</title>
-      <link>https://divanews.github.io/tags/south-africa/</link>
-      <pubDate>Sun, 30 Oct 2022 16:14:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/south-africa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>World</title>
       <link>https://divanews.github.io/tags/world/</link>
       <pubDate>Sun, 30 Oct 2022 16:14:00 +0530</pubDate>
@@ -62,11 +80,29 @@
     </item>
     
     <item>
+      <title>Bihar</title>
+      <link>https://divanews.github.io/tags/bihar/</link>
+      <pubDate>Sun, 30 Oct 2022 15:57:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/bihar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Bjp</title>
       <link>https://divanews.github.io/tags/bjp/</link>
       <pubDate>Sun, 30 Oct 2022 15:57:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/tags/bjp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chirag paswan</title>
+      <link>https://divanews.github.io/tags/chirag-paswan/</link>
+      <pubDate>Sun, 30 Oct 2022 15:57:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/chirag-paswan/</guid>
       <description></description>
     </item>
     
@@ -121,24 +157,6 @@
       <pubDate>Sun, 30 Oct 2022 14:57:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/tags/madhya-pradesh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Delhi</title>
-      <link>https://divanews.github.io/tags/delhi/</link>
-      <pubDate>Sun, 30 Oct 2022 14:47:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/delhi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kejriwal</title>
-      <link>https://divanews.github.io/tags/kejriwal/</link>
-      <pubDate>Sun, 30 Oct 2022 14:47:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/kejriwal/</guid>
       <description></description>
     </item>
     
@@ -548,6 +566,15 @@
     </item>
     
     <item>
+      <title>Sbi</title>
+      <link>https://divanews.github.io/tags/sbi/</link>
+      <pubDate>Thu, 13 Oct 2022 16:25:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/sbi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Shopping</title>
       <link>https://divanews.github.io/tags/shopping/</link>
       <pubDate>Thu, 06 Oct 2022 17:21:00 +0530</pubDate>
@@ -616,6 +643,24 @@
       <pubDate>Wed, 07 Sep 2022 10:31:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/tags/apple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Movies</title>
+      <link>https://divanews.github.io/tags/movies/</link>
+      <pubDate>Sat, 28 May 2022 09:22:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/movies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>China</title>
+      <link>https://divanews.github.io/tags/china/</link>
+      <pubDate>Mon, 14 Feb 2022 13:08:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/china/</guid>
       <description></description>
     </item>
     
