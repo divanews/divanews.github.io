@@ -6,7 +6,34 @@
     <description>Recent content in Tags on DivaNews | Hindi News portal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Oct 2022 11:10:00 +0530</lastBuildDate><atom:link href="https://divanews.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 Oct 2022 11:48:00 +0530</lastBuildDate><atom:link href="https://divanews.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>World</title>
+      <link>https://divanews.github.io/tags/world/</link>
+      <pubDate>Mon, 31 Oct 2022 11:48:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/world/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>India</title>
+      <link>https://divanews.github.io/tags/india/</link>
+      <pubDate>Mon, 31 Oct 2022 11:38:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/india/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bjp</title>
+      <link>https://divanews.github.io/tags/bjp/</link>
+      <pubDate>Mon, 31 Oct 2022 11:37:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/bjp/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Chhath</title>
       <link>https://divanews.github.io/tags/chhath/</link>
@@ -44,15 +71,6 @@
     </item>
     
     <item>
-      <title>India</title>
-      <link>https://divanews.github.io/tags/india/</link>
-      <pubDate>Mon, 31 Oct 2022 09:28:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/india/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Regional</title>
       <link>https://divanews.github.io/tags/regional/</link>
       <pubDate>Mon, 31 Oct 2022 08:10:00 +0530</pubDate>
@@ -67,15 +85,6 @@
       <pubDate>Mon, 31 Oct 2022 07:48:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/tags/arvind-kejriwal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bjp</title>
-      <link>https://divanews.github.io/tags/bjp/</link>
-      <pubDate>Mon, 31 Oct 2022 07:48:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/bjp/</guid>
       <description></description>
     </item>
     
@@ -148,15 +157,6 @@
       <pubDate>Mon, 31 Oct 2022 07:12:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/tags/south-africa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>World</title>
-      <link>https://divanews.github.io/tags/world/</link>
-      <pubDate>Mon, 31 Oct 2022 07:12:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/world/</guid>
       <description></description>
     </item>
     
@@ -386,15 +386,6 @@
     </item>
     
     <item>
-      <title>Sex</title>
-      <link>https://divanews.github.io/tags/sex/</link>
-      <pubDate>Sun, 30 Oct 2022 11:50:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/sex/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Tec</title>
       <link>https://divanews.github.io/tags/tec/</link>
       <pubDate>Sun, 30 Oct 2022 11:50:00 +0530</pubDate>
@@ -535,6 +526,15 @@
       <pubDate>Sat, 29 Oct 2022 07:15:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/tags/media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sex</title>
+      <link>https://divanews.github.io/tags/sex/</link>
+      <pubDate>Fri, 28 Oct 2022 19:35:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/sex/</guid>
       <description></description>
     </item>
     
