@@ -6,29 +6,11 @@
     <description>Recent content in Categories on DivaNews | Hindi News portal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Nov 2022 21:53:00 +0530</lastBuildDate><atom:link href="https://divanews.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>National</title>
-      <link>https://divanews.github.io/categories/national/</link>
-      <pubDate>Wed, 02 Nov 2022 21:53:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/categories/national/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>International</title>
-      <link>https://divanews.github.io/categories/international/</link>
-      <pubDate>Wed, 02 Nov 2022 21:31:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/categories/international/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Thu, 03 Nov 2022 08:22:00 +0530</lastBuildDate><atom:link href="https://divanews.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cricket</title>
       <link>https://divanews.github.io/categories/cricket/</link>
-      <pubDate>Wed, 02 Nov 2022 21:22:00 +0530</pubDate>
+      <pubDate>Thu, 03 Nov 2022 08:22:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/categories/cricket/</guid>
       <description></description>
@@ -37,9 +19,27 @@
     <item>
       <title>Business</title>
       <link>https://divanews.github.io/categories/business/</link>
-      <pubDate>Wed, 02 Nov 2022 20:21:00 +0530</pubDate>
+      <pubDate>Thu, 03 Nov 2022 07:40:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/categories/business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>International</title>
+      <link>https://divanews.github.io/categories/international/</link>
+      <pubDate>Thu, 03 Nov 2022 06:46:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/categories/international/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>National</title>
+      <link>https://divanews.github.io/categories/national/</link>
+      <pubDate>Thu, 03 Nov 2022 06:32:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/categories/national/</guid>
       <description></description>
     </item>
     
