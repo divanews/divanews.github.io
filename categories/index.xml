@@ -35,7 +35,7 @@
     </item>
     
     <item>
-      <title>Cricket</title>
+      <title>cricket</title>
       <link>https://divanews.github.io/categories/cricket/</link>
       <pubDate>Sun, 06 Nov 2022 17:05:00 +0530</pubDate>
       
@@ -44,7 +44,7 @@
     </item>
     
     <item>
-      <title>Bollywood</title>
+      <title>bollywood</title>
       <link>https://divanews.github.io/categories/bollywood/</link>
       <pubDate>Sun, 06 Nov 2022 12:51:00 +0530</pubDate>
       
@@ -80,7 +80,7 @@
     </item>
     
     <item>
-      <title>Health</title>
+      <title>health</title>
       <link>https://divanews.github.io/categories/health/</link>
       <pubDate>Sun, 06 Nov 2022 08:49:00 +0530</pubDate>
       
@@ -98,6 +98,15 @@
     </item>
     
     <item>
+      <title>personality</title>
+      <link>https://divanews.github.io/categories/personality/</link>
+      <pubDate>Sun, 06 Nov 2022 08:15:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/categories/personality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Technology</title>
       <link>https://divanews.github.io/categories/technology/</link>
       <pubDate>Sat, 05 Nov 2022 19:28:00 +0530</pubDate>
@@ -107,7 +116,16 @@
     </item>
     
     <item>
-      <title>Currentaffairs</title>
+      <title>column</title>
+      <link>https://divanews.github.io/categories/column/</link>
+      <pubDate>Sat, 05 Nov 2022 18:55:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/categories/column/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>currentaffairs</title>
       <link>https://divanews.github.io/categories/currentaffairs/</link>
       <pubDate>Sat, 05 Nov 2022 17:47:00 +0530</pubDate>
       
@@ -116,11 +134,20 @@
     </item>
     
     <item>
-      <title>Mri</title>
+      <title>mri</title>
       <link>https://divanews.github.io/categories/mri/</link>
       <pubDate>Sat, 05 Nov 2022 16:47:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/categories/mri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>proventhings</title>
+      <link>https://divanews.github.io/categories/proventhings/</link>
+      <pubDate>Sat, 05 Nov 2022 16:28:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/categories/proventhings/</guid>
       <description></description>
     </item>
     
@@ -130,6 +157,15 @@
       <pubDate>Sat, 05 Nov 2022 16:09:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/categories/politics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jyotish</title>
+      <link>https://divanews.github.io/categories/jyotish/</link>
+      <pubDate>Sat, 05 Nov 2022 11:37:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/categories/jyotish/</guid>
       <description></description>
     </item>
     
@@ -161,6 +197,24 @@
     </item>
     
     <item>
+      <title>literaturearticles</title>
+      <link>https://divanews.github.io/categories/literaturearticles/</link>
+      <pubDate>Fri, 04 Nov 2022 17:38:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/categories/literaturearticles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>expertopinion</title>
+      <link>https://divanews.github.io/categories/expertopinion/</link>
+      <pubDate>Thu, 03 Nov 2022 17:34:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/categories/expertopinion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Tourism</title>
       <link>https://divanews.github.io/categories/tourism/</link>
       <pubDate>Thu, 03 Nov 2022 17:18:00 +0530</pubDate>
@@ -170,7 +224,16 @@
     </item>
     
     <item>
-      <title>Reviews-on-tea</title>
+      <title>hollywood</title>
+      <link>https://divanews.github.io/categories/hollywood/</link>
+      <pubDate>Thu, 03 Nov 2022 14:06:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/categories/hollywood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reviews-on-tea</title>
       <link>https://divanews.github.io/categories/reviews-on-tea/</link>
       <pubDate>Mon, 31 Oct 2022 12:55:00 +0530</pubDate>
       
