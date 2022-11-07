@@ -6,40 +6,76 @@
     <description>Recent content in Categories on DivaNews | Hindi News portal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Nov 2022 09:40:00 +0530</lastBuildDate><atom:link href="https://divanews.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Nov 2022 13:03:00 +0530</lastBuildDate><atom:link href="https://divanews.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>National</title>
       <link>https://divanews.github.io/categories/national/</link>
-      <pubDate>Mon, 07 Nov 2022 09:40:00 +0530</pubDate>
+      <pubDate>Mon, 07 Nov 2022 13:03:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/categories/national/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>cricket</title>
-      <link>https://divanews.github.io/categories/cricket/</link>
-      <pubDate>Mon, 07 Nov 2022 08:21:00 +0530</pubDate>
+      <title>bollywood</title>
+      <link>https://divanews.github.io/categories/bollywood/</link>
+      <pubDate>Mon, 07 Nov 2022 12:55:00 +0530</pubDate>
       
-      <guid>https://divanews.github.io/categories/cricket/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sports</title>
-      <link>https://divanews.github.io/categories/sports/</link>
-      <pubDate>Mon, 07 Nov 2022 08:21:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/categories/sports/</guid>
+      <guid>https://divanews.github.io/categories/bollywood/</guid>
       <description></description>
     </item>
     
     <item>
       <title>international</title>
       <link>https://divanews.github.io/categories/international/</link>
-      <pubDate>Mon, 07 Nov 2022 06:21:00 +0530</pubDate>
+      <pubDate>Mon, 07 Nov 2022 12:37:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/categories/international/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sports</title>
+      <link>https://divanews.github.io/categories/sports/</link>
+      <pubDate>Mon, 07 Nov 2022 12:01:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/categories/sports/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cricket</title>
+      <link>https://divanews.github.io/categories/cricket/</link>
+      <pubDate>Mon, 07 Nov 2022 11:51:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/categories/cricket/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Festivals</title>
+      <link>https://divanews.github.io/categories/festivals/</link>
+      <pubDate>Mon, 07 Nov 2022 11:50:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/categories/festivals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>health</title>
+      <link>https://divanews.github.io/categories/health/</link>
+      <pubDate>Mon, 07 Nov 2022 11:38:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/categories/health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>personality</title>
+      <link>https://divanews.github.io/categories/personality/</link>
+      <pubDate>Mon, 07 Nov 2022 11:17:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/categories/personality/</guid>
       <description></description>
     </item>
     
@@ -53,24 +89,6 @@
     </item>
     
     <item>
-      <title>bollywood</title>
-      <link>https://divanews.github.io/categories/bollywood/</link>
-      <pubDate>Sun, 06 Nov 2022 12:51:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/categories/bollywood/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Festivals</title>
-      <link>https://divanews.github.io/categories/festivals/</link>
-      <pubDate>Sun, 06 Nov 2022 09:03:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/categories/festivals/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Beauty</title>
       <link>https://divanews.github.io/categories/beauty/</link>
       <pubDate>Sun, 06 Nov 2022 08:52:00 +0530</pubDate>
@@ -80,29 +98,11 @@
     </item>
     
     <item>
-      <title>health</title>
-      <link>https://divanews.github.io/categories/health/</link>
-      <pubDate>Sun, 06 Nov 2022 08:49:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/categories/health/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Women</title>
       <link>https://divanews.github.io/categories/women/</link>
       <pubDate>Sun, 06 Nov 2022 08:43:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/categories/women/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>personality</title>
-      <link>https://divanews.github.io/categories/personality/</link>
-      <pubDate>Sun, 06 Nov 2022 08:15:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/categories/personality/</guid>
       <description></description>
     </item>
     
