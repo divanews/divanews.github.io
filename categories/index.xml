@@ -6,11 +6,11 @@
     <description>Recent content in Categories on DivaNews | Hindi News portal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Nov 2022 15:49:00 +0530</lastBuildDate><atom:link href="https://divanews.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Nov 2022 18:55:00 +0530</lastBuildDate><atom:link href="https://divanews.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>National</title>
       <link>https://divanews.github.io/categories/national/</link>
-      <pubDate>Tue, 08 Nov 2022 15:49:00 +0530</pubDate>
+      <pubDate>Tue, 08 Nov 2022 18:55:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/categories/national/</guid>
       <description></description>
@@ -19,9 +19,18 @@
     <item>
       <title>international</title>
       <link>https://divanews.github.io/categories/international/</link>
-      <pubDate>Tue, 08 Nov 2022 11:01:00 +0530</pubDate>
+      <pubDate>Tue, 08 Nov 2022 16:16:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/categories/international/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bollywood</title>
+      <link>https://divanews.github.io/categories/bollywood/</link>
+      <pubDate>Tue, 08 Nov 2022 16:04:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/categories/bollywood/</guid>
       <description></description>
     </item>
     
@@ -103,15 +112,6 @@
       <pubDate>Mon, 07 Nov 2022 18:48:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/categories/reviews-on-tea/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>bollywood</title>
-      <link>https://divanews.github.io/categories/bollywood/</link>
-      <pubDate>Mon, 07 Nov 2022 18:37:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/categories/bollywood/</guid>
       <description></description>
     </item>
     
