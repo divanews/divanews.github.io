@@ -6,31 +6,292 @@
     <description>Recent content in Tags on DivaNews | Hindi News portal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Nov 2022 13:11:00 +0530</lastBuildDate><atom:link href="https://divanews.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Nov 2022 15:56:00 +0530</lastBuildDate><atom:link href="https://divanews.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>World</title>
-      <link>https://divanews.github.io/tags/world/</link>
-      <pubDate>Fri, 18 Nov 2022 13:11:00 +0530</pubDate>
+      <title>Asia</title>
+      <link>https://divanews.github.io/tags/asia/</link>
+      <pubDate>Sat, 19 Nov 2022 15:56:00 +0530</pubDate>
       
-      <guid>https://divanews.github.io/tags/world/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rahul gandhi</title>
-      <link>https://divanews.github.io/tags/rahul-gandhi/</link>
-      <pubDate>Fri, 18 Nov 2022 13:06:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/rahul-gandhi/</guid>
+      <guid>https://divanews.github.io/tags/asia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bjp</title>
       <link>https://divanews.github.io/tags/bjp/</link>
-      <pubDate>Fri, 18 Nov 2022 12:46:00 +0530</pubDate>
+      <pubDate>Sat, 19 Nov 2022 15:52:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/tags/bjp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kejriwal</title>
+      <link>https://divanews.github.io/tags/kejriwal/</link>
+      <pubDate>Sat, 19 Nov 2022 15:52:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/kejriwal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tamil</title>
+      <link>https://divanews.github.io/tags/tamil/</link>
+      <pubDate>Sat, 19 Nov 2022 15:47:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/tamil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Government</title>
+      <link>https://divanews.github.io/tags/government/</link>
+      <pubDate>Sat, 19 Nov 2022 15:44:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/government/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>World</title>
+      <link>https://divanews.github.io/tags/world/</link>
+      <pubDate>Sat, 19 Nov 2022 15:34:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/world/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>State</title>
+      <link>https://divanews.github.io/tags/state/</link>
+      <pubDate>Sat, 19 Nov 2022 15:28:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/state/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assam</title>
+      <link>https://divanews.github.io/tags/assam/</link>
+      <pubDate>Sat, 19 Nov 2022 15:20:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/assam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>https://divanews.github.io/tags/security/</link>
+      <pubDate>Sat, 19 Nov 2022 14:51:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pakistan</title>
+      <link>https://divanews.github.io/tags/pakistan/</link>
+      <pubDate>Sat, 19 Nov 2022 14:15:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/pakistan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Australia</title>
+      <link>https://divanews.github.io/tags/australia/</link>
+      <pubDate>Sat, 19 Nov 2022 13:59:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/australia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>India</title>
+      <link>https://divanews.github.io/tags/india/</link>
+      <pubDate>Sat, 19 Nov 2022 13:05:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/india/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web series</title>
+      <link>https://divanews.github.io/tags/web-series/</link>
+      <pubDate>Sat, 19 Nov 2022 13:05:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/web-series/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nation</title>
+      <link>https://divanews.github.io/tags/nation/</link>
+      <pubDate>Sat, 19 Nov 2022 12:57:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/nation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Law</title>
+      <link>https://divanews.github.io/tags/law/</link>
+      <pubDate>Sat, 19 Nov 2022 12:51:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/law/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Delhi</title>
+      <link>https://divanews.github.io/tags/delhi/</link>
+      <pubDate>Sat, 19 Nov 2022 11:17:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/delhi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Congress</title>
+      <link>https://divanews.github.io/tags/congress/</link>
+      <pubDate>Sat, 19 Nov 2022 10:52:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/congress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bihar</title>
+      <link>https://divanews.github.io/tags/bihar/</link>
+      <pubDate>Sat, 19 Nov 2022 10:08:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/bihar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Malaysia</title>
+      <link>https://divanews.github.io/tags/malaysia/</link>
+      <pubDate>Sat, 19 Nov 2022 09:30:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/malaysia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finance</title>
+      <link>https://divanews.github.io/tags/finance/</link>
+      <pubDate>Sat, 19 Nov 2022 07:18:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/finance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regulation</title>
+      <link>https://divanews.github.io/tags/regulation/</link>
+      <pubDate>Sat, 19 Nov 2022 07:18:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/regulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retail</title>
+      <link>https://divanews.github.io/tags/retail/</link>
+      <pubDate>Sat, 19 Nov 2022 07:18:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/retail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tec</title>
+      <link>https://divanews.github.io/tags/tec/</link>
+      <pubDate>Sat, 19 Nov 2022 07:18:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/tec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>https://divanews.github.io/tags/tech/</link>
+      <pubDate>Sat, 19 Nov 2022 07:18:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology</title>
+      <link>https://divanews.github.io/tags/technology/</link>
+      <pubDate>Sat, 19 Nov 2022 07:18:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rahul gandhi</title>
+      <link>https://divanews.github.io/tags/rahul-gandhi/</link>
+      <pubDate>Sat, 19 Nov 2022 06:18:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/rahul-gandhi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>China</title>
+      <link>https://divanews.github.io/tags/china/</link>
+      <pubDate>Sat, 19 Nov 2022 05:18:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/china/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flu</title>
+      <link>https://divanews.github.io/tags/flu/</link>
+      <pubDate>Sat, 19 Nov 2022 05:18:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/flu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>National</title>
+      <link>https://divanews.github.io/tags/national/</link>
+      <pubDate>Fri, 18 Nov 2022 21:41:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/national/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardik pandya</title>
+      <link>https://divanews.github.io/tags/hardik-pandya/</link>
+      <pubDate>Fri, 18 Nov 2022 17:22:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/hardik-pandya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bollywood</title>
+      <link>https://divanews.github.io/tags/bollywood/</link>
+      <pubDate>Fri, 18 Nov 2022 17:09:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/bollywood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Football</title>
+      <link>https://divanews.github.io/tags/football/</link>
+      <pubDate>Fri, 18 Nov 2022 16:27:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/football/</guid>
       <description></description>
     </item>
     
@@ -44,74 +305,11 @@
     </item>
     
     <item>
-      <title>India</title>
-      <link>https://divanews.github.io/tags/india/</link>
-      <pubDate>Fri, 18 Nov 2022 12:25:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/india/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nation</title>
-      <link>https://divanews.github.io/tags/nation/</link>
-      <pubDate>Fri, 18 Nov 2022 12:12:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/nation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Japan</title>
       <link>https://divanews.github.io/tags/japan/</link>
       <pubDate>Fri, 18 Nov 2022 11:35:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/tags/japan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Delhi</title>
-      <link>https://divanews.github.io/tags/delhi/</link>
-      <pubDate>Fri, 18 Nov 2022 10:42:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/delhi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>National</title>
-      <link>https://divanews.github.io/tags/national/</link>
-      <pubDate>Fri, 18 Nov 2022 10:21:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/national/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pakistan</title>
-      <link>https://divanews.github.io/tags/pakistan/</link>
-      <pubDate>Fri, 18 Nov 2022 09:43:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/pakistan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>China</title>
-      <link>https://divanews.github.io/tags/china/</link>
-      <pubDate>Fri, 18 Nov 2022 09:19:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/china/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Law</title>
-      <link>https://divanews.github.io/tags/law/</link>
-      <pubDate>Fri, 18 Nov 2022 09:19:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/law/</guid>
       <description></description>
     </item>
     
@@ -152,47 +350,11 @@
     </item>
     
     <item>
-      <title>Government</title>
-      <link>https://divanews.github.io/tags/government/</link>
-      <pubDate>Fri, 18 Nov 2022 07:28:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/government/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Sensex</title>
       <link>https://divanews.github.io/tags/sensex/</link>
       <pubDate>Fri, 18 Nov 2022 07:28:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/tags/sensex/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bihar</title>
-      <link>https://divanews.github.io/tags/bihar/</link>
-      <pubDate>Fri, 18 Nov 2022 06:33:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/bihar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Congress</title>
-      <link>https://divanews.github.io/tags/congress/</link>
-      <pubDate>Fri, 18 Nov 2022 06:33:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/congress/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>State</title>
-      <link>https://divanews.github.io/tags/state/</link>
-      <pubDate>Fri, 18 Nov 2022 06:18:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/state/</guid>
       <description></description>
     </item>
     
@@ -211,24 +373,6 @@
       <pubDate>Fri, 18 Nov 2022 05:18:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/tags/singapore/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Australia</title>
-      <link>https://divanews.github.io/tags/australia/</link>
-      <pubDate>Thu, 17 Nov 2022 18:45:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/australia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hardik pandya</title>
-      <link>https://divanews.github.io/tags/hardik-pandya/</link>
-      <pubDate>Thu, 17 Nov 2022 17:54:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/hardik-pandya/</guid>
       <description></description>
     </item>
     
@@ -274,24 +418,6 @@
       <pubDate>Thu, 17 Nov 2022 15:05:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/tags/tesla/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bollywood</title>
-      <link>https://divanews.github.io/tags/bollywood/</link>
-      <pubDate>Thu, 17 Nov 2022 14:45:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/bollywood/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Football</title>
-      <link>https://divanews.github.io/tags/football/</link>
-      <pubDate>Thu, 17 Nov 2022 14:32:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/football/</guid>
       <description></description>
     </item>
     
@@ -350,15 +476,6 @@
     </item>
     
     <item>
-      <title>Security</title>
-      <link>https://divanews.github.io/tags/security/</link>
-      <pubDate>Thu, 17 Nov 2022 10:29:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/security/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>International</title>
       <link>https://divanews.github.io/tags/international/</link>
       <pubDate>Wed, 16 Nov 2022 21:44:00 +0530</pubDate>
@@ -413,42 +530,6 @@
     </item>
     
     <item>
-      <title>Tec</title>
-      <link>https://divanews.github.io/tags/tec/</link>
-      <pubDate>Wed, 16 Nov 2022 12:04:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/tec/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tech</title>
-      <link>https://divanews.github.io/tags/tech/</link>
-      <pubDate>Wed, 16 Nov 2022 12:04:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/tech/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Technology</title>
-      <link>https://divanews.github.io/tags/technology/</link>
-      <pubDate>Wed, 16 Nov 2022 12:04:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/technology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Asia</title>
-      <link>https://divanews.github.io/tags/asia/</link>
-      <pubDate>Wed, 16 Nov 2022 07:30:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/asia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Markets</title>
       <link>https://divanews.github.io/tags/markets/</link>
       <pubDate>Wed, 16 Nov 2022 07:10:00 +0530</pubDate>
@@ -467,15 +548,6 @@
     </item>
     
     <item>
-      <title>Kejriwal</title>
-      <link>https://divanews.github.io/tags/kejriwal/</link>
-      <pubDate>Tue, 15 Nov 2022 14:26:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/kejriwal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Game</title>
       <link>https://divanews.github.io/tags/game/</link>
       <pubDate>Tue, 15 Nov 2022 14:06:00 +0530</pubDate>
@@ -490,15 +562,6 @@
       <pubDate>Tue, 15 Nov 2022 11:48:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/tags/cricket/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Retail</title>
-      <link>https://divanews.github.io/tags/retail/</link>
-      <pubDate>Tue, 15 Nov 2022 08:08:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/retail/</guid>
       <description></description>
     </item>
     
@@ -665,29 +728,11 @@
     </item>
     
     <item>
-      <title>Tamil</title>
-      <link>https://divanews.github.io/tags/tamil/</link>
-      <pubDate>Sun, 13 Nov 2022 07:11:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/tamil/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Jammu and Kashmir</title>
       <link>https://divanews.github.io/tags/jammu-and-kashmir/</link>
       <pubDate>Sat, 12 Nov 2022 20:11:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/tags/jammu-and-kashmir/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Assam</title>
-      <link>https://divanews.github.io/tags/assam/</link>
-      <pubDate>Sat, 12 Nov 2022 19:22:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/assam/</guid>
       <description></description>
     </item>
     
@@ -809,15 +854,6 @@
     </item>
     
     <item>
-      <title>Finance</title>
-      <link>https://divanews.github.io/tags/finance/</link>
-      <pubDate>Tue, 08 Nov 2022 07:24:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/finance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Shopping</title>
       <link>https://divanews.github.io/tags/shopping/</link>
       <pubDate>Mon, 07 Nov 2022 07:21:00 +0530</pubDate>
@@ -859,15 +895,6 @@
       <pubDate>Sun, 06 Nov 2022 09:30:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/tags/sbi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Malaysia</title>
-      <link>https://divanews.github.io/tags/malaysia/</link>
-      <pubDate>Sun, 06 Nov 2022 08:08:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/malaysia/</guid>
       <description></description>
     </item>
     
@@ -1021,15 +1048,6 @@
       <pubDate>Mon, 31 Oct 2022 06:10:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/tags/shatrughan-sinha/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Flu</title>
-      <link>https://divanews.github.io/tags/flu/</link>
-      <pubDate>Sun, 30 Oct 2022 19:29:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/flu/</guid>
       <description></description>
     </item>
     
