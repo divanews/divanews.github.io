@@ -6,76 +6,391 @@
     <description>Recent content in Tags on DivaNews | Hindi News portal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Dec 2022 10:43:00 +0530</lastBuildDate><atom:link href="https://divanews.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Dec 2022 10:31:00 +0530</lastBuildDate><atom:link href="https://divanews.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Madhya Pradesh</title>
-      <link>https://divanews.github.io/tags/madhya-pradesh/</link>
-      <pubDate>Wed, 28 Dec 2022 10:43:00 +0530</pubDate>
+      <title>Football</title>
+      <link>https://divanews.github.io/tags/football/</link>
+      <pubDate>Thu, 29 Dec 2022 10:31:00 +0530</pubDate>
       
-      <guid>https://divanews.github.io/tags/madhya-pradesh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Congress</title>
-      <link>https://divanews.github.io/tags/congress/</link>
-      <pubDate>Wed, 28 Dec 2022 10:35:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/congress/</guid>
+      <guid>https://divanews.github.io/tags/football/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Market updates</title>
       <link>https://divanews.github.io/tags/market-updates/</link>
-      <pubDate>Wed, 28 Dec 2022 10:23:00 +0530</pubDate>
+      <pubDate>Thu, 29 Dec 2022 09:54:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/tags/market-updates/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Nation</title>
-      <link>https://divanews.github.io/tags/nation/</link>
-      <pubDate>Wed, 28 Dec 2022 09:49:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/nation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Security</title>
-      <link>https://divanews.github.io/tags/security/</link>
-      <pubDate>Wed, 28 Dec 2022 09:30:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/security/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Jammu and Kashmir</title>
       <link>https://divanews.github.io/tags/jammu-and-kashmir/</link>
-      <pubDate>Wed, 28 Dec 2022 07:40:00 +0530</pubDate>
+      <pubDate>Thu, 29 Dec 2022 09:27:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/tags/jammu-and-kashmir/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Social</title>
-      <link>https://divanews.github.io/tags/social/</link>
-      <pubDate>Wed, 28 Dec 2022 07:30:00 +0530</pubDate>
+      <title>Bihar</title>
+      <link>https://divanews.github.io/tags/bihar/</link>
+      <pubDate>Wed, 28 Dec 2022 23:20:00 +0530</pubDate>
       
-      <guid>https://divanews.github.io/tags/social/</guid>
+      <guid>https://divanews.github.io/tags/bihar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Media</title>
+      <link>https://divanews.github.io/tags/media/</link>
+      <pubDate>Wed, 28 Dec 2022 23:15:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Government</title>
+      <link>https://divanews.github.io/tags/government/</link>
+      <pubDate>Wed, 28 Dec 2022 23:04:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/government/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>State</title>
+      <link>https://divanews.github.io/tags/state/</link>
+      <pubDate>Wed, 28 Dec 2022 23:02:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/state/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Congress</title>
+      <link>https://divanews.github.io/tags/congress/</link>
+      <pubDate>Wed, 28 Dec 2022 22:57:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/congress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haryana</title>
+      <link>https://divanews.github.io/tags/haryana/</link>
+      <pubDate>Wed, 28 Dec 2022 22:43:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/haryana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaming</title>
+      <link>https://divanews.github.io/tags/gaming/</link>
+      <pubDate>Wed, 28 Dec 2022 22:37:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/gaming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>India</title>
+      <link>https://divanews.github.io/tags/india/</link>
+      <pubDate>Wed, 28 Dec 2022 22:37:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/india/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Australia</title>
+      <link>https://divanews.github.io/tags/australia/</link>
+      <pubDate>Wed, 28 Dec 2022 22:30:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/australia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nation</title>
+      <link>https://divanews.github.io/tags/nation/</link>
+      <pubDate>Wed, 28 Dec 2022 22:21:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/nation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>National</title>
+      <link>https://divanews.github.io/tags/national/</link>
+      <pubDate>Wed, 28 Dec 2022 22:21:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/national/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Industries</title>
+      <link>https://divanews.github.io/tags/industries/</link>
+      <pubDate>Wed, 28 Dec 2022 22:19:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/industries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>South africa</title>
+      <link>https://divanews.github.io/tags/south-africa/</link>
+      <pubDate>Wed, 28 Dec 2022 22:14:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/south-africa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cricket</title>
+      <link>https://divanews.github.io/tags/cricket/</link>
+      <pubDate>Wed, 28 Dec 2022 22:10:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/cricket/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supreme Court</title>
+      <link>https://divanews.github.io/tags/supreme-court/</link>
+      <pubDate>Wed, 28 Dec 2022 22:07:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/supreme-court/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Delhi</title>
+      <link>https://divanews.github.io/tags/delhi/</link>
+      <pubDate>Wed, 28 Dec 2022 21:56:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/delhi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tamil</title>
+      <link>https://divanews.github.io/tags/tamil/</link>
+      <pubDate>Wed, 28 Dec 2022 21:56:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/tamil/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bjp</title>
       <link>https://divanews.github.io/tags/bjp/</link>
-      <pubDate>Wed, 28 Dec 2022 07:10:00 +0530</pubDate>
+      <pubDate>Wed, 28 Dec 2022 21:35:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/tags/bjp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gujarat</title>
+      <link>https://divanews.github.io/tags/gujarat/</link>
+      <pubDate>Wed, 28 Dec 2022 21:32:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/gujarat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>World</title>
+      <link>https://divanews.github.io/tags/world/</link>
+      <pubDate>Wed, 28 Dec 2022 21:30:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/world/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bank</title>
+      <link>https://divanews.github.io/tags/bank/</link>
+      <pubDate>Wed, 28 Dec 2022 21:22:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/bank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>https://divanews.github.io/tags/security/</link>
+      <pubDate>Wed, 28 Dec 2022 21:11:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>China</title>
+      <link>https://divanews.github.io/tags/china/</link>
+      <pubDate>Wed, 28 Dec 2022 21:05:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/china/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sport</title>
+      <link>https://divanews.github.io/tags/sport/</link>
+      <pubDate>Wed, 28 Dec 2022 21:05:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/sport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sports</title>
+      <link>https://divanews.github.io/tags/sports/</link>
+      <pubDate>Wed, 28 Dec 2022 21:05:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/sports/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pakistan</title>
+      <link>https://divanews.github.io/tags/pakistan/</link>
+      <pubDate>Wed, 28 Dec 2022 21:02:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/pakistan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Health</title>
+      <link>https://divanews.github.io/tags/health/</link>
+      <pubDate>Wed, 28 Dec 2022 20:58:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social</title>
+      <link>https://divanews.github.io/tags/social/</link>
+      <pubDate>Wed, 28 Dec 2022 18:14:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/social/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iphone 14</title>
+      <link>https://divanews.github.io/tags/iphone-14/</link>
+      <pubDate>Wed, 28 Dec 2022 16:58:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/iphone-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Science</title>
+      <link>https://divanews.github.io/tags/science/</link>
+      <pubDate>Wed, 28 Dec 2022 16:19:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tec</title>
+      <link>https://divanews.github.io/tags/tec/</link>
+      <pubDate>Wed, 28 Dec 2022 16:19:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/tec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>https://divanews.github.io/tags/tech/</link>
+      <pubDate>Wed, 28 Dec 2022 16:19:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology</title>
+      <link>https://divanews.github.io/tags/technology/</link>
+      <pubDate>Wed, 28 Dec 2022 16:19:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flu</title>
+      <link>https://divanews.github.io/tags/flu/</link>
+      <pubDate>Wed, 28 Dec 2022 16:15:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/flu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensex</title>
+      <link>https://divanews.github.io/tags/sensex/</link>
+      <pubDate>Wed, 28 Dec 2022 16:15:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/sensex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bollywood</title>
+      <link>https://divanews.github.io/tags/bollywood/</link>
+      <pubDate>Wed, 28 Dec 2022 16:02:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/bollywood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Movies</title>
+      <link>https://divanews.github.io/tags/movies/</link>
+      <pubDate>Wed, 28 Dec 2022 16:02:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/movies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anurag thakur</title>
+      <link>https://divanews.github.io/tags/anurag-thakur/</link>
+      <pubDate>Wed, 28 Dec 2022 15:05:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/anurag-thakur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Law</title>
+      <link>https://divanews.github.io/tags/law/</link>
+      <pubDate>Wed, 28 Dec 2022 14:04:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/law/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Madhya Pradesh</title>
+      <link>https://divanews.github.io/tags/madhya-pradesh/</link>
+      <pubDate>Wed, 28 Dec 2022 10:43:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/madhya-pradesh/</guid>
       <description></description>
     </item>
     
@@ -89,38 +404,11 @@
     </item>
     
     <item>
-      <title>Tamil</title>
-      <link>https://divanews.github.io/tags/tamil/</link>
-      <pubDate>Wed, 28 Dec 2022 06:54:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/tamil/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Celebrities</title>
       <link>https://divanews.github.io/tags/celebrities/</link>
       <pubDate>Wed, 28 Dec 2022 06:50:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/tags/celebrities/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Government</title>
-      <link>https://divanews.github.io/tags/government/</link>
-      <pubDate>Wed, 28 Dec 2022 06:20:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/government/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Haryana</title>
-      <link>https://divanews.github.io/tags/haryana/</link>
-      <pubDate>Wed, 28 Dec 2022 06:20:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/haryana/</guid>
       <description></description>
     </item>
     
@@ -134,15 +422,6 @@
     </item>
     
     <item>
-      <title>India</title>
-      <link>https://divanews.github.io/tags/india/</link>
-      <pubDate>Tue, 27 Dec 2022 23:24:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/india/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Malaysia</title>
       <link>https://divanews.github.io/tags/malaysia/</link>
       <pubDate>Tue, 27 Dec 2022 23:12:00 +0530</pubDate>
@@ -152,110 +431,11 @@
     </item>
     
     <item>
-      <title>Gaming</title>
-      <link>https://divanews.github.io/tags/gaming/</link>
-      <pubDate>Tue, 27 Dec 2022 23:06:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/gaming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>National</title>
-      <link>https://divanews.github.io/tags/national/</link>
-      <pubDate>Tue, 27 Dec 2022 23:02:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/national/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bank</title>
-      <link>https://divanews.github.io/tags/bank/</link>
-      <pubDate>Tue, 27 Dec 2022 22:56:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/bank/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>China</title>
-      <link>https://divanews.github.io/tags/china/</link>
-      <pubDate>Tue, 27 Dec 2022 22:40:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/china/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Australia</title>
-      <link>https://divanews.github.io/tags/australia/</link>
-      <pubDate>Tue, 27 Dec 2022 22:03:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/australia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Asia</title>
       <link>https://divanews.github.io/tags/asia/</link>
       <pubDate>Tue, 27 Dec 2022 21:58:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/tags/asia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>South africa</title>
-      <link>https://divanews.github.io/tags/south-africa/</link>
-      <pubDate>Tue, 27 Dec 2022 21:56:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/south-africa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pakistan</title>
-      <link>https://divanews.github.io/tags/pakistan/</link>
-      <pubDate>Tue, 27 Dec 2022 21:44:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/pakistan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Football</title>
-      <link>https://divanews.github.io/tags/football/</link>
-      <pubDate>Tue, 27 Dec 2022 21:42:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/football/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Delhi</title>
-      <link>https://divanews.github.io/tags/delhi/</link>
-      <pubDate>Tue, 27 Dec 2022 21:40:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/delhi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sport</title>
-      <link>https://divanews.github.io/tags/sport/</link>
-      <pubDate>Tue, 27 Dec 2022 21:36:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/sport/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sports</title>
-      <link>https://divanews.github.io/tags/sports/</link>
-      <pubDate>Tue, 27 Dec 2022 21:36:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/sports/</guid>
       <description></description>
     </item>
     
@@ -278,110 +458,11 @@
     </item>
     
     <item>
-      <title>Law</title>
-      <link>https://divanews.github.io/tags/law/</link>
-      <pubDate>Tue, 27 Dec 2022 17:10:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/law/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cricket</title>
-      <link>https://divanews.github.io/tags/cricket/</link>
-      <pubDate>Tue, 27 Dec 2022 16:58:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/cricket/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Science</title>
-      <link>https://divanews.github.io/tags/science/</link>
-      <pubDate>Tue, 27 Dec 2022 16:17:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>State</title>
-      <link>https://divanews.github.io/tags/state/</link>
-      <pubDate>Tue, 27 Dec 2022 15:27:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/state/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bollywood</title>
-      <link>https://divanews.github.io/tags/bollywood/</link>
-      <pubDate>Tue, 27 Dec 2022 15:19:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/bollywood/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Health</title>
-      <link>https://divanews.github.io/tags/health/</link>
-      <pubDate>Tue, 27 Dec 2022 15:06:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/health/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Media</title>
-      <link>https://divanews.github.io/tags/media/</link>
-      <pubDate>Tue, 27 Dec 2022 14:48:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/media/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bihar</title>
-      <link>https://divanews.github.io/tags/bihar/</link>
-      <pubDate>Tue, 27 Dec 2022 14:13:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/bihar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tec</title>
-      <link>https://divanews.github.io/tags/tec/</link>
-      <pubDate>Tue, 27 Dec 2022 13:06:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/tec/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>World</title>
-      <link>https://divanews.github.io/tags/world/</link>
-      <pubDate>Tue, 27 Dec 2022 13:05:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/world/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Reviews</title>
       <link>https://divanews.github.io/tags/reviews/</link>
       <pubDate>Tue, 27 Dec 2022 11:38:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/tags/reviews/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gujarat</title>
-      <link>https://divanews.github.io/tags/gujarat/</link>
-      <pubDate>Tue, 27 Dec 2022 11:25:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/gujarat/</guid>
       <description></description>
     </item>
     
@@ -481,15 +562,6 @@
       <pubDate>Mon, 26 Dec 2022 17:10:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/tags/rahul-gandhi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sensex</title>
-      <link>https://divanews.github.io/tags/sensex/</link>
-      <pubDate>Mon, 26 Dec 2022 16:15:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/sensex/</guid>
       <description></description>
     </item>
     
@@ -629,15 +701,6 @@
     </item>
     
     <item>
-      <title>Anurag thakur</title>
-      <link>https://divanews.github.io/tags/anurag-thakur/</link>
-      <pubDate>Fri, 23 Dec 2022 22:46:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/anurag-thakur/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Wealth</title>
       <link>https://divanews.github.io/tags/wealth/</link>
       <pubDate>Fri, 23 Dec 2022 22:29:00 +0530</pubDate>
@@ -670,15 +733,6 @@
       <pubDate>Fri, 23 Dec 2022 06:42:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/tags/brazil/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Supreme Court</title>
-      <link>https://divanews.github.io/tags/supreme-court/</link>
-      <pubDate>Thu, 22 Dec 2022 19:39:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/supreme-court/</guid>
       <description></description>
     </item>
     
@@ -764,38 +818,11 @@
     </item>
     
     <item>
-      <title>Tech</title>
-      <link>https://divanews.github.io/tags/tech/</link>
-      <pubDate>Tue, 20 Dec 2022 23:02:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/tech/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Technology</title>
-      <link>https://divanews.github.io/tags/technology/</link>
-      <pubDate>Tue, 20 Dec 2022 23:02:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/technology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Hollywood</title>
       <link>https://divanews.github.io/tags/hollywood/</link>
       <pubDate>Tue, 20 Dec 2022 16:25:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/tags/hollywood/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Movies</title>
-      <link>https://divanews.github.io/tags/movies/</link>
-      <pubDate>Tue, 20 Dec 2022 16:25:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/movies/</guid>
       <description></description>
     </item>
     
@@ -890,15 +917,6 @@
     </item>
     
     <item>
-      <title>Industries</title>
-      <link>https://divanews.github.io/tags/industries/</link>
-      <pubDate>Fri, 16 Dec 2022 12:23:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/industries/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Flipkart</title>
       <link>https://divanews.github.io/tags/flipkart/</link>
       <pubDate>Thu, 15 Dec 2022 22:28:00 +0530</pubDate>
@@ -931,15 +949,6 @@
       <pubDate>Mon, 12 Dec 2022 23:12:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/tags/sbi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Flu</title>
-      <link>https://divanews.github.io/tags/flu/</link>
-      <pubDate>Sat, 10 Dec 2022 18:14:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/flu/</guid>
       <description></description>
     </item>
     
@@ -1327,15 +1336,6 @@
       <pubDate>Mon, 19 Sep 2022 14:28:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/tags/gadgets/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Iphone 14</title>
-      <link>https://divanews.github.io/tags/iphone-14/</link>
-      <pubDate>Thu, 08 Sep 2022 13:01:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/iphone-14/</guid>
       <description></description>
     </item>
     
