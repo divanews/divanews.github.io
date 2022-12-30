@@ -6,94 +6,157 @@
     <description>Recent content in Categories on DivaNews | Hindi News portal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Dec 2022 11:04:00 +0530</lastBuildDate><atom:link href="https://divanews.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Dec 2022 16:11:00 +0530</lastBuildDate><atom:link href="https://divanews.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>cricket</title>
-      <link>https://divanews.github.io/categories/cricket/</link>
-      <pubDate>Thu, 29 Dec 2022 11:04:00 +0530</pubDate>
+      <title>Beauty</title>
+      <link>https://divanews.github.io/categories/beauty/</link>
+      <pubDate>Fri, 30 Dec 2022 16:11:00 +0530</pubDate>
       
-      <guid>https://divanews.github.io/categories/cricket/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>personality</title>
-      <link>https://divanews.github.io/categories/personality/</link>
-      <pubDate>Thu, 29 Dec 2022 11:04:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/categories/personality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>National</title>
-      <link>https://divanews.github.io/categories/national/</link>
-      <pubDate>Thu, 29 Dec 2022 10:48:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/categories/national/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>column</title>
-      <link>https://divanews.github.io/categories/column/</link>
-      <pubDate>Thu, 29 Dec 2022 10:41:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/categories/column/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sports</title>
-      <link>https://divanews.github.io/categories/sports/</link>
-      <pubDate>Thu, 29 Dec 2022 10:31:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/categories/sports/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>international</title>
-      <link>https://divanews.github.io/categories/international/</link>
-      <pubDate>Thu, 29 Dec 2022 10:20:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/categories/international/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Business</title>
-      <link>https://divanews.github.io/categories/business/</link>
-      <pubDate>Thu, 29 Dec 2022 09:54:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/categories/business/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Religion</title>
-      <link>https://divanews.github.io/categories/religion/</link>
-      <pubDate>Wed, 28 Dec 2022 18:43:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/categories/religion/</guid>
+      <guid>https://divanews.github.io/categories/beauty/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bollywood</title>
       <link>https://divanews.github.io/categories/bollywood/</link>
-      <pubDate>Wed, 28 Dec 2022 18:26:00 +0530</pubDate>
+      <pubDate>Fri, 30 Dec 2022 16:08:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/categories/bollywood/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>expertopinion</title>
+      <link>https://divanews.github.io/categories/expertopinion/</link>
+      <pubDate>Fri, 30 Dec 2022 16:03:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/categories/expertopinion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>personality</title>
+      <link>https://divanews.github.io/categories/personality/</link>
+      <pubDate>Fri, 30 Dec 2022 15:58:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/categories/personality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Business</title>
+      <link>https://divanews.github.io/categories/business/</link>
+      <pubDate>Fri, 30 Dec 2022 15:57:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/categories/business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>National</title>
+      <link>https://divanews.github.io/categories/national/</link>
+      <pubDate>Fri, 30 Dec 2022 15:52:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/categories/national/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>international</title>
+      <link>https://divanews.github.io/categories/international/</link>
+      <pubDate>Fri, 30 Dec 2022 15:46:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/categories/international/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sports</title>
+      <link>https://divanews.github.io/categories/sports/</link>
+      <pubDate>Fri, 30 Dec 2022 15:34:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/categories/sports/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Health</title>
+      <link>https://divanews.github.io/categories/health/</link>
+      <pubDate>Fri, 30 Dec 2022 15:19:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/categories/health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Politics</title>
+      <link>https://divanews.github.io/categories/politics/</link>
+      <pubDate>Fri, 30 Dec 2022 13:05:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/categories/politics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>column</title>
+      <link>https://divanews.github.io/categories/column/</link>
+      <pubDate>Fri, 30 Dec 2022 12:20:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/categories/column/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>currentaffairs</title>
+      <link>https://divanews.github.io/categories/currentaffairs/</link>
+      <pubDate>Fri, 30 Dec 2022 11:35:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/categories/currentaffairs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cricket</title>
+      <link>https://divanews.github.io/categories/cricket/</link>
+      <pubDate>Fri, 30 Dec 2022 09:38:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/categories/cricket/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Jyotish</title>
       <link>https://divanews.github.io/categories/jyotish/</link>
-      <pubDate>Wed, 28 Dec 2022 18:05:00 +0530</pubDate>
+      <pubDate>Thu, 29 Dec 2022 18:31:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/categories/jyotish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mri</title>
+      <link>https://divanews.github.io/categories/mri/</link>
+      <pubDate>Thu, 29 Dec 2022 17:13:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/categories/mri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Women</title>
+      <link>https://divanews.github.io/categories/women/</link>
+      <pubDate>Thu, 29 Dec 2022 13:31:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/categories/women/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Religion</title>
+      <link>https://divanews.github.io/categories/religion/</link>
+      <pubDate>Thu, 29 Dec 2022 12:26:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/categories/religion/</guid>
       <description></description>
     </item>
     
@@ -103,15 +166,6 @@
       <pubDate>Wed, 28 Dec 2022 17:35:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/categories/hollywood/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mri</title>
-      <link>https://divanews.github.io/categories/mri/</link>
-      <pubDate>Wed, 28 Dec 2022 17:19:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/categories/mri/</guid>
       <description></description>
     </item>
     
@@ -134,56 +188,11 @@
     </item>
     
     <item>
-      <title>Health</title>
-      <link>https://divanews.github.io/categories/health/</link>
-      <pubDate>Wed, 28 Dec 2022 15:25:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/categories/health/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Politics</title>
-      <link>https://divanews.github.io/categories/politics/</link>
-      <pubDate>Wed, 28 Dec 2022 14:43:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/categories/politics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Beauty</title>
-      <link>https://divanews.github.io/categories/beauty/</link>
-      <pubDate>Wed, 28 Dec 2022 12:48:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/categories/beauty/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>currentaffairs</title>
-      <link>https://divanews.github.io/categories/currentaffairs/</link>
-      <pubDate>Wed, 28 Dec 2022 12:23:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/categories/currentaffairs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>literaturearticles</title>
       <link>https://divanews.github.io/categories/literaturearticles/</link>
       <pubDate>Wed, 28 Dec 2022 10:39:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/categories/literaturearticles/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>expertopinion</title>
-      <link>https://divanews.github.io/categories/expertopinion/</link>
-      <pubDate>Wed, 28 Dec 2022 09:40:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/categories/expertopinion/</guid>
       <description></description>
     </item>
     
@@ -202,15 +211,6 @@
       <pubDate>Tue, 27 Dec 2022 16:20:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/categories/career/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Women</title>
-      <link>https://divanews.github.io/categories/women/</link>
-      <pubDate>Tue, 27 Dec 2022 14:18:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/categories/women/</guid>
       <description></description>
     </item>
     
