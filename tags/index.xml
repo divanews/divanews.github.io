@@ -6,20 +6,29 @@
     <description>Recent content in Tags on DivaNews | Hindi News portal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Jan 2023 11:03:00 +0530</lastBuildDate><atom:link href="https://divanews.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Jan 2023 12:25:00 +0530</lastBuildDate><atom:link href="https://divanews.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Delhi</title>
-      <link>https://divanews.github.io/tags/delhi/</link>
-      <pubDate>Tue, 10 Jan 2023 11:03:00 +0530</pubDate>
+      <title>Football</title>
+      <link>https://divanews.github.io/tags/football/</link>
+      <pubDate>Tue, 10 Jan 2023 12:25:00 +0530</pubDate>
       
-      <guid>https://divanews.github.io/tags/delhi/</guid>
+      <guid>https://divanews.github.io/tags/football/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>International</title>
+      <link>https://divanews.github.io/tags/international/</link>
+      <pubDate>Tue, 10 Jan 2023 12:25:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/international/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nation</title>
       <link>https://divanews.github.io/tags/nation/</link>
-      <pubDate>Tue, 10 Jan 2023 11:03:00 +0530</pubDate>
+      <pubDate>Tue, 10 Jan 2023 12:25:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/tags/nation/</guid>
       <description></description>
@@ -28,9 +37,99 @@
     <item>
       <title>National</title>
       <link>https://divanews.github.io/tags/national/</link>
-      <pubDate>Tue, 10 Jan 2023 11:03:00 +0530</pubDate>
+      <pubDate>Tue, 10 Jan 2023 12:25:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/tags/national/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latest</title>
+      <link>https://divanews.github.io/tags/latest/</link>
+      <pubDate>Tue, 10 Jan 2023 12:22:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/latest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latest news</title>
+      <link>https://divanews.github.io/tags/latest-news/</link>
+      <pubDate>Tue, 10 Jan 2023 12:22:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/latest-news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Malaysia</title>
+      <link>https://divanews.github.io/tags/malaysia/</link>
+      <pubDate>Tue, 10 Jan 2023 12:10:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/malaysia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rahul gandhi</title>
+      <link>https://divanews.github.io/tags/rahul-gandhi/</link>
+      <pubDate>Tue, 10 Jan 2023 12:00:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/rahul-gandhi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arsenal</title>
+      <link>https://divanews.github.io/tags/arsenal/</link>
+      <pubDate>Tue, 10 Jan 2023 11:55:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/arsenal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Congress</title>
+      <link>https://divanews.github.io/tags/congress/</link>
+      <pubDate>Tue, 10 Jan 2023 11:51:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/congress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Law</title>
+      <link>https://divanews.github.io/tags/law/</link>
+      <pubDate>Tue, 10 Jan 2023 11:47:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/law/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bank</title>
+      <link>https://divanews.github.io/tags/bank/</link>
+      <pubDate>Tue, 10 Jan 2023 11:46:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/bank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>World</title>
+      <link>https://divanews.github.io/tags/world/</link>
+      <pubDate>Tue, 10 Jan 2023 11:31:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/world/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Delhi</title>
+      <link>https://divanews.github.io/tags/delhi/</link>
+      <pubDate>Tue, 10 Jan 2023 11:03:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/tags/delhi/</guid>
       <description></description>
     </item>
     
@@ -76,15 +175,6 @@
       <pubDate>Tue, 10 Jan 2023 09:42:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/tags/government/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rahul gandhi</title>
-      <link>https://divanews.github.io/tags/rahul-gandhi/</link>
-      <pubDate>Tue, 10 Jan 2023 09:33:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/rahul-gandhi/</guid>
       <description></description>
     </item>
     
@@ -170,38 +260,11 @@
     </item>
     
     <item>
-      <title>Law</title>
-      <link>https://divanews.github.io/tags/law/</link>
-      <pubDate>Mon, 09 Jan 2023 22:37:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/law/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>International</title>
-      <link>https://divanews.github.io/tags/international/</link>
-      <pubDate>Mon, 09 Jan 2023 22:06:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/international/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Pakistan</title>
       <link>https://divanews.github.io/tags/pakistan/</link>
       <pubDate>Mon, 09 Jan 2023 22:06:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/tags/pakistan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bank</title>
-      <link>https://divanews.github.io/tags/bank/</link>
-      <pubDate>Mon, 09 Jan 2023 21:59:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/bank/</guid>
       <description></description>
     </item>
     
@@ -341,15 +404,6 @@
     </item>
     
     <item>
-      <title>World</title>
-      <link>https://divanews.github.io/tags/world/</link>
-      <pubDate>Mon, 09 Jan 2023 16:19:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/world/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Sensex</title>
       <link>https://divanews.github.io/tags/sensex/</link>
       <pubDate>Mon, 09 Jan 2023 16:10:00 +0530</pubDate>
@@ -386,29 +440,11 @@
     </item>
     
     <item>
-      <title>Malaysia</title>
-      <link>https://divanews.github.io/tags/malaysia/</link>
-      <pubDate>Mon, 09 Jan 2023 13:47:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/malaysia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Kolkata</title>
       <link>https://divanews.github.io/tags/kolkata/</link>
       <pubDate>Mon, 09 Jan 2023 12:45:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/tags/kolkata/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Football</title>
-      <link>https://divanews.github.io/tags/football/</link>
-      <pubDate>Mon, 09 Jan 2023 12:31:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/football/</guid>
       <description></description>
     </item>
     
@@ -481,15 +517,6 @@
       <pubDate>Mon, 09 Jan 2023 06:37:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/tags/anurag-thakur/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Congress</title>
-      <link>https://divanews.github.io/tags/congress/</link>
-      <pubDate>Mon, 09 Jan 2023 06:17:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/congress/</guid>
       <description></description>
     </item>
     
@@ -647,24 +674,6 @@
     </item>
     
     <item>
-      <title>Latest</title>
-      <link>https://divanews.github.io/tags/latest/</link>
-      <pubDate>Wed, 04 Jan 2023 15:40:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/latest/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Latest news</title>
-      <link>https://divanews.github.io/tags/latest-news/</link>
-      <pubDate>Wed, 04 Jan 2023 15:40:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/latest-news/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Japan</title>
       <link>https://divanews.github.io/tags/japan/</link>
       <pubDate>Wed, 04 Jan 2023 13:28:00 +0530</pubDate>
@@ -751,15 +760,6 @@
       <pubDate>Sun, 01 Jan 2023 23:28:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/tags/flu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Arsenal</title>
-      <link>https://divanews.github.io/tags/arsenal/</link>
-      <pubDate>Sun, 01 Jan 2023 21:16:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/tags/arsenal/</guid>
       <description></description>
     </item>
     
