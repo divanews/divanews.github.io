@@ -6,94 +6,193 @@
     <description>Recent content in Categories on DivaNews | Hindi News portal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Jan 2023 11:30:00 +0530</lastBuildDate><atom:link href="https://divanews.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>National</title>
-      <link>https://divanews.github.io/categories/national/</link>
-      <pubDate>Fri, 13 Jan 2023 11:30:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/categories/national/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>currentaffairs</title>
-      <link>https://divanews.github.io/categories/currentaffairs/</link>
-      <pubDate>Fri, 13 Jan 2023 10:49:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/categories/currentaffairs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>personality</title>
-      <link>https://divanews.github.io/categories/personality/</link>
-      <pubDate>Fri, 13 Jan 2023 10:33:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/categories/personality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>international</title>
-      <link>https://divanews.github.io/categories/international/</link>
-      <pubDate>Fri, 13 Jan 2023 10:23:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/categories/international/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Business</title>
-      <link>https://divanews.github.io/categories/business/</link>
-      <pubDate>Fri, 13 Jan 2023 10:06:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/categories/business/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Sun, 15 Jan 2023 09:00:00 +0530</lastBuildDate><atom:link href="https://divanews.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sports</title>
       <link>https://divanews.github.io/categories/sports/</link>
-      <pubDate>Fri, 13 Jan 2023 09:44:00 +0530</pubDate>
+      <pubDate>Sun, 15 Jan 2023 09:00:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/categories/sports/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>cricket</title>
-      <link>https://divanews.github.io/categories/cricket/</link>
-      <pubDate>Fri, 13 Jan 2023 06:53:00 +0530</pubDate>
+      <title>Beauty</title>
+      <link>https://divanews.github.io/categories/beauty/</link>
+      <pubDate>Sun, 15 Jan 2023 08:55:00 +0530</pubDate>
       
-      <guid>https://divanews.github.io/categories/cricket/</guid>
+      <guid>https://divanews.github.io/categories/beauty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Health</title>
+      <link>https://divanews.github.io/categories/health/</link>
+      <pubDate>Sun, 15 Jan 2023 08:45:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/categories/health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Women</title>
+      <link>https://divanews.github.io/categories/women/</link>
+      <pubDate>Sun, 15 Jan 2023 08:41:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/categories/women/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>currentaffairs</title>
+      <link>https://divanews.github.io/categories/currentaffairs/</link>
+      <pubDate>Sun, 15 Jan 2023 08:36:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/categories/currentaffairs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Festivals</title>
       <link>https://divanews.github.io/categories/festivals/</link>
-      <pubDate>Thu, 12 Jan 2023 19:03:00 +0530</pubDate>
+      <pubDate>Sun, 15 Jan 2023 08:29:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/categories/festivals/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Bollywood</title>
-      <link>https://divanews.github.io/categories/bollywood/</link>
-      <pubDate>Thu, 12 Jan 2023 18:55:00 +0530</pubDate>
+      <title>National</title>
+      <link>https://divanews.github.io/categories/national/</link>
+      <pubDate>Sun, 15 Jan 2023 06:49:00 +0530</pubDate>
       
-      <guid>https://divanews.github.io/categories/bollywood/</guid>
+      <guid>https://divanews.github.io/categories/national/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Business</title>
+      <link>https://divanews.github.io/categories/business/</link>
+      <pubDate>Sat, 14 Jan 2023 23:26:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/categories/business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cricket</title>
+      <link>https://divanews.github.io/categories/cricket/</link>
+      <pubDate>Sat, 14 Jan 2023 22:05:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/categories/cricket/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>international</title>
+      <link>https://divanews.github.io/categories/international/</link>
+      <pubDate>Sat, 14 Jan 2023 21:45:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/categories/international/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology</title>
+      <link>https://divanews.github.io/categories/technology/</link>
+      <pubDate>Sat, 14 Jan 2023 19:25:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/categories/technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>expertopinion</title>
+      <link>https://divanews.github.io/categories/expertopinion/</link>
+      <pubDate>Sat, 14 Jan 2023 18:12:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/categories/expertopinion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>column</title>
       <link>https://divanews.github.io/categories/column/</link>
-      <pubDate>Thu, 12 Jan 2023 18:19:00 +0530</pubDate>
+      <pubDate>Sat, 14 Jan 2023 17:39:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/categories/column/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bollywood</title>
+      <link>https://divanews.github.io/categories/bollywood/</link>
+      <pubDate>Sat, 14 Jan 2023 17:19:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/categories/bollywood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Politics</title>
+      <link>https://divanews.github.io/categories/politics/</link>
+      <pubDate>Sat, 14 Jan 2023 14:41:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/categories/politics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Religion</title>
+      <link>https://divanews.github.io/categories/religion/</link>
+      <pubDate>Fri, 13 Jan 2023 19:04:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/categories/religion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>personality</title>
+      <link>https://divanews.github.io/categories/personality/</link>
+      <pubDate>Fri, 13 Jan 2023 18:21:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/categories/personality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>proventhings</title>
+      <link>https://divanews.github.io/categories/proventhings/</link>
+      <pubDate>Fri, 13 Jan 2023 18:18:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/categories/proventhings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>literaturearticles</title>
+      <link>https://divanews.github.io/categories/literaturearticles/</link>
+      <pubDate>Fri, 13 Jan 2023 18:14:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/categories/literaturearticles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mri</title>
+      <link>https://divanews.github.io/categories/mri/</link>
+      <pubDate>Fri, 13 Jan 2023 17:17:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/categories/mri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hollywood</title>
+      <link>https://divanews.github.io/categories/hollywood/</link>
+      <pubDate>Fri, 13 Jan 2023 13:06:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/categories/hollywood/</guid>
       <description></description>
     </item>
     
@@ -107,101 +206,11 @@
     </item>
     
     <item>
-      <title>Religion</title>
-      <link>https://divanews.github.io/categories/religion/</link>
-      <pubDate>Thu, 12 Jan 2023 16:53:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/categories/religion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>expertopinion</title>
-      <link>https://divanews.github.io/categories/expertopinion/</link>
-      <pubDate>Thu, 12 Jan 2023 16:46:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/categories/expertopinion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mri</title>
-      <link>https://divanews.github.io/categories/mri/</link>
-      <pubDate>Thu, 12 Jan 2023 16:44:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/categories/mri/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Beauty</title>
-      <link>https://divanews.github.io/categories/beauty/</link>
-      <pubDate>Thu, 12 Jan 2023 15:39:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/categories/beauty/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Health</title>
-      <link>https://divanews.github.io/categories/health/</link>
-      <pubDate>Thu, 12 Jan 2023 12:54:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/categories/health/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Politics</title>
-      <link>https://divanews.github.io/categories/politics/</link>
-      <pubDate>Thu, 12 Jan 2023 12:21:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/categories/politics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Technology</title>
-      <link>https://divanews.github.io/categories/technology/</link>
-      <pubDate>Thu, 12 Jan 2023 12:10:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/categories/technology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Tourism</title>
       <link>https://divanews.github.io/categories/tourism/</link>
       <pubDate>Wed, 11 Jan 2023 19:07:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/categories/tourism/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hollywood</title>
-      <link>https://divanews.github.io/categories/hollywood/</link>
-      <pubDate>Wed, 11 Jan 2023 16:56:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/categories/hollywood/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Women</title>
-      <link>https://divanews.github.io/categories/women/</link>
-      <pubDate>Wed, 11 Jan 2023 15:20:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/categories/women/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>proventhings</title>
-      <link>https://divanews.github.io/categories/proventhings/</link>
-      <pubDate>Tue, 10 Jan 2023 17:33:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/categories/proventhings/</guid>
       <description></description>
     </item>
     
@@ -220,15 +229,6 @@
       <pubDate>Mon, 09 Jan 2023 12:41:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/categories/reviews-on-tea/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>literaturearticles</title>
-      <link>https://divanews.github.io/categories/literaturearticles/</link>
-      <pubDate>Fri, 06 Jan 2023 17:32:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/categories/literaturearticles/</guid>
       <description></description>
     </item>
     
