@@ -6,20 +6,11 @@
     <description>Recent content in Categories on DivaNews | Hindi News portal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Jan 2023 13:37:00 +0530</lastBuildDate><atom:link href="https://divanews.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hollywood</title>
-      <link>https://divanews.github.io/categories/hollywood/</link>
-      <pubDate>Sun, 15 Jan 2023 13:37:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/categories/hollywood/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Mon, 16 Jan 2023 11:29:00 +0530</lastBuildDate><atom:link href="https://divanews.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bollywood</title>
       <link>https://divanews.github.io/categories/bollywood/</link>
-      <pubDate>Sun, 15 Jan 2023 13:24:00 +0530</pubDate>
+      <pubDate>Mon, 16 Jan 2023 11:29:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/categories/bollywood/</guid>
       <description></description>
@@ -28,34 +19,16 @@
     <item>
       <title>National</title>
       <link>https://divanews.github.io/categories/national/</link>
-      <pubDate>Sun, 15 Jan 2023 13:12:00 +0530</pubDate>
+      <pubDate>Mon, 16 Jan 2023 11:24:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/categories/national/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Sports</title>
-      <link>https://divanews.github.io/categories/sports/</link>
-      <pubDate>Sun, 15 Jan 2023 12:45:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/categories/sports/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cricket</title>
-      <link>https://divanews.github.io/categories/cricket/</link>
-      <pubDate>Sun, 15 Jan 2023 12:34:00 +0530</pubDate>
-      
-      <guid>https://divanews.github.io/categories/cricket/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Business</title>
       <link>https://divanews.github.io/categories/business/</link>
-      <pubDate>Sun, 15 Jan 2023 12:21:00 +0530</pubDate>
+      <pubDate>Mon, 16 Jan 2023 11:05:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/categories/business/</guid>
       <description></description>
@@ -64,9 +37,36 @@
     <item>
       <title>international</title>
       <link>https://divanews.github.io/categories/international/</link>
-      <pubDate>Sun, 15 Jan 2023 11:55:00 +0530</pubDate>
+      <pubDate>Mon, 16 Jan 2023 10:22:00 +0530</pubDate>
       
       <guid>https://divanews.github.io/categories/international/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sports</title>
+      <link>https://divanews.github.io/categories/sports/</link>
+      <pubDate>Mon, 16 Jan 2023 09:00:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/categories/sports/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cricket</title>
+      <link>https://divanews.github.io/categories/cricket/</link>
+      <pubDate>Sun, 15 Jan 2023 22:09:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/categories/cricket/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hollywood</title>
+      <link>https://divanews.github.io/categories/hollywood/</link>
+      <pubDate>Sun, 15 Jan 2023 16:07:00 +0530</pubDate>
+      
+      <guid>https://divanews.github.io/categories/hollywood/</guid>
       <description></description>
     </item>
     
